@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Леонардо Ди Каприо",
+    "age": 50,
+    "photo": "https://icdn.lenta.ru/images/2023/11/10/17/20231110173148484/square_1280_34a24606ead095c1697647e755c65b68.jpg"
+  },
+  {
+    "name": "Дуэйн Джонсон",
+    "age": 52,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUTwb-lEOYyAR3z63dsjWgzd5-pF9R5ahlJpJxuEEsESf_S2ocC64vfpbxrlsBp340kE&usqp=CAU"
+  },
+  {
+    "name": "Уилл Смит",
+    "age": 56,
+    "photo": "https://www.kinomania.ru/sites/default/files/person_images/9cfdf10e8fc047a44b08ed031e1f0ed1_0.jpeg"
+  }
+]
+ 
